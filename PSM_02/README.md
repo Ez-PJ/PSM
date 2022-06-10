@@ -14,7 +14,7 @@ Gravitation and resistance forces:
 $$Fg = mg$$
 $$Fg = -kV$$
 
-where $$k$$ is drag coefficient (k=0 means vacuum, k>0 some environment with resistance)
+where 'k' is drag coefficient (k=0 means vacuum, k>0 some environment with resistance)
 
 Total force:
 $$Ft = Fg + Fr$$
